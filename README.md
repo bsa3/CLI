@@ -1,2 +1,4 @@
-# bash
-bash stuff
+# CLI
+cli stuff
+-bash
+-windows batch cmd
